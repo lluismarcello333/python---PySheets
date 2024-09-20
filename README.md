@@ -18,7 +18,7 @@ Este projeto é um bot assistente desenvolvido em Python, que realiza a automaç
 
 * Clone este repositório
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone git@github.com:lluismarcello333/python---PySheets.git
 cd nome-do-repositorio
 ```
 * Crie e ative um ambiente virtual (opcional, mas recomendado)
